@@ -1,5 +1,5 @@
 package ro.pakt.petclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
 }
